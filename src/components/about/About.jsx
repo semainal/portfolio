@@ -20,16 +20,15 @@ const About = () => {
 </p>
 
 <p className="about-desc">
-     My education in International Relations helped me develop analytical thinking and problem-solving skills. I apply these skills in technical fields such as web design, creating user-friendly and aesthetically pleasing websites.
+     My education in International Relations has honed my analytical and problem-solving skills, which I apply to web design, creating user-friendly and visually appealing websites.
 
-    Over the past three years, I have participated in various projects and strengthened the digital presence of many clients. In addition to web design, I also create custom notebook designs, providing creative solutions for personal and corporate needs.
+Over the past three years, I have enhanced the digital presence of various clients through web design and custom notebook creations for personal and corporate use.
 
-    
-     I design modern and functional websites using HTML, CSS, JavaScript, and various web design tools.
-     I create custom and corporate notebook designs to help my clients enhance their brand value.
-    I communicate effectively with my clients to complete projects on time and meet their expectations.
+I specialize in modern and functional websites using HTML, CSS, JavaScript, and other web design tools, and I create custom notebooks to boost brand value.
 
-    Thank you for visiting my website. If you would like to discuss how I can assist you with your projects, please feel free to contact me.
+I communicate effectively with clients to ensure timely project completion and satisfaction.
+
+Thank you for visiting my website. If you'd like to discuss how I can assist with your projects, please contact me.
 </p>
                 <div className="about-link">
                     <img src={planetbee} alt="" className="about-linkImg"/>
