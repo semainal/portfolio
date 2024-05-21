@@ -1,4 +1,4 @@
-
+import astrogame from "../src/img/astrogame.png"
 
 export const products = [
    {
@@ -8,7 +8,7 @@ export const products = [
    },
    {
      id: 2,
-     img: "",
+     img: astrogame,
      link: "https://astrogame.netlify.app/",
    },
    // {
