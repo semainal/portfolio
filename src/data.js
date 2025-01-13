@@ -1,4 +1,5 @@
 import astrogame from "../src/img/astrogame.png"
+import iremhoca from "../src/img/iremhoca.png"
 
 export const products = [
    {
@@ -11,11 +12,11 @@ export const products = [
      img: astrogame,
      link: "https://astrogame.netlify.app/",
    },
-   // {
-   //   id: 3,
-   //   img: "",
-   //   link: "https://mathematicsgames.netlify.app",
-   // },
+ {
+ id: 3,
+ img: iremhoca,
+link: "https://englishwithirem.netlify.app/",
+ },
    // {
    //   id: 4,
    //   img: "",
